@@ -1,0 +1,34 @@
+.picture {
+    width: 25vw;
+}
+
+html {
+    background-color: rgb(236, 242, 128);
+    text-align: center;
+    color: darkblue;
+    font-size: 20px;
+}
+h1 {
+    background-color: rgb(42, 41, 90);
+    text-align: center;
+    color: gold;
+    
+}
+
+h2 {
+    background-color: green;
+    color: beige;
+}
+li {
+    background-color: aqua;
+    color: black;
+}
+a {
+    text-shadow: 2px 2px 2px rgb(199, 92, 26);
+    color: rgb(0, 12, 3);
+    font-size: 20px;
+}
+p {
+    background-color: aquamarine;
+    font-size: xx-large;
+}
